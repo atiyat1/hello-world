@@ -1,2 +1,2 @@
 # hello-world
-This is my first try in creating a repository on GitHub.
+Hello. This my first branch exercise in GitHub! I like this so far.
